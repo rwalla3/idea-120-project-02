@@ -1,1 +1,1 @@
-# idea-120-project-02
+# idea-120-project-2
